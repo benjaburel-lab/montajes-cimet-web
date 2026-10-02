@@ -2198,6 +2198,13 @@ section[id] {
   isolation: isolate;
   background: #08090d;
 }
+
+@media (max-width: 650px) {
+  .hero-v7-media {
+    background-image: url("assets/gallery/project-frigorifico-02-mobile.jpg");
+  }
+}
+
 .hero-v7-media {
   position: absolute;
   inset: 0;
