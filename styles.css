@@ -4169,3 +4169,16 @@ textarea:focus-visible,
     margin-left: auto;
   }
 }
+
+
+/* HERO REAL CIMET — override final */
+.hero-v7-media {
+  background-image: url("assets/gallery/real-cimet/cimet-13.jpg");
+}
+
+@media (max-width: 650px) {
+  .hero-v7-media {
+    background-image: url("assets/gallery/real-cimet/cimet-13-mobile.jpg");
+    background-position: center center;
+  }
+}
