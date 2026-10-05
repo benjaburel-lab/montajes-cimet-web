@@ -504,7 +504,7 @@ h2 span {
   min-height: 540px;
   background:
     linear-gradient(135deg, rgba(50, 16, 93, 0.15), rgba(0, 0, 0, 0.55)),
-    url('assets/gallery/project-plataforma-03.jpg');
+    url('assets/gallery/real-cimet/cimet-06.jpg');
   background-size: cover;
   background-position: center;
   border: 1px solid var(--border);
@@ -2201,7 +2201,7 @@ section[id] {
 
 @media (max-width: 650px) {
   .hero-v7-media {
-    background-image: url("assets/gallery/project-frigorifico-02-mobile.jpg");
+    background-image: url("assets/gallery/real-cimet/cimet-13.jpg");
   }
 }
 
@@ -2209,7 +2209,7 @@ section[id] {
   position: absolute;
   inset: 0;
   z-index: -3;
-  background-image: url('assets/gallery/project-frigorifico-02.jpg');
+  background-image: url('assets/gallery/real-cimet/cimet-13.jpg');
   background-size: cover;
   background-position: center 43%;
   transform: scale(1.015);
