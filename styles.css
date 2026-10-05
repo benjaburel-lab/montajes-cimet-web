@@ -508,6 +508,9 @@ h2 span {
   background-size: cover;
   background-position: center;
   border: 1px solid var(--border);
+  box-sizing: border-box;
+  overflow: hidden;
+  background-repeat: no-repeat;
 }
 
 .company-image::after {
